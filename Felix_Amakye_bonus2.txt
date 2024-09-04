@@ -7,7 +7,7 @@ Answer: weekly
 
 Question 2:
 Which tools and communication technology are you going to use?
-Answer: GroupMe, Github, Visual Studio
+Answer: GroupMe, GitHub, Visual Studio
 
 Question 3:
 Who is going to complete which tasks?
