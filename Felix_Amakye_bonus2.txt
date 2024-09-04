@@ -1,0 +1,45 @@
+Meet with your team to discuss the details of how you are going to approach the group assignment. 
+The more details you provide the higher the chance of getting credit for this bonus assignment. 
+
+Question 1:
+How often are you going to meet?
+Answer: weekly
+
+Question 2:
+Which tools and communication technology are you going to use?
+Answer: GroupMe, Github, Visual Studio
+
+Question 3:
+Who is going to complete which tasks?
+Answer: Felix will be the repo owner and will help with Github transfers. Noah will build the API and automate it. Nolan will build the dashboards and also help with Github. 
+
+Question 4:
+What are the expected completion dates of each task?
+Answer:
+a.Get data from a URL daily and store it in a file 9/16
+b.Insert data into a Postgres database when it lands on disk 9/23
+c.Prepare data in a format for visualization/analysis 9/30
+d.Generate a Dash dashboard with metrics about the data and the pipeline’s operations 10/14
+e.Serve data through a flask API 10/21
+f.Extract data through the API 10/29
+
+
+Question 5:
+Who is going to be the repo owner?
+Answer: Felix(Myself)
+
+Question 6:
+What is your process to accomplish tasks and review code?
+We are going to upload it to GitHub, and then the GitHub owner will check it over to see if it is good. Since we have a small group, everyone can really help in reviewing. 
+
+
+Question 7:
+How are you going to hold each team member accountable to stay on top of their tasks?
+We will ask for weekly updates to see where everyone is at.
+
+
+
+
+
+
+
