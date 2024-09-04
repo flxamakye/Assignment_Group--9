@@ -12,6 +12,8 @@ Answer: GroupMe, GitHub, Visual Studio
 Question 3:
 Who is going to complete which tasks?
 Answer: Felix will be the repo owner and will help with Github transfers. Noah will build the API and automate it. Nolan will build the dashboards and also help with Github. 
+ 
+ 
 
 Question 4:
 What are the expected completion dates of each task?
