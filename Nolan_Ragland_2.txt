@@ -1,0 +1,50 @@
+Meet with your team to discuss the details of how you are going to approach the group assignment. 
+The more details you provide the higher the chance of getting credit for this bonus assignment. 
+
+Question 1:
+How often are you going to meet?
+Answer: Weekly
+
+Question 2:
+Which tools and communication technology are you going to use?
+Answer: GroupMe, Github, Visual Studio
+
+Question 3:
+Who is going to complete which tasks?
+Answer: Felix is going to be the repo owner, so he will help with Github transfers. Noah is going to do the API building and automation. Nolan will be building the dashboards and also helping with Github. 
+
+Question 4:
+What are the expected completion dates of each task?
+Answer:
+a.Get data from a URL on a daily basis and store it in a file 9/16
+b.Insert data into a Postgres database when it lands on disk 9/23
+c.Prepare data in a format for visualization / analysis 9/30
+d.Generate a Dash dashboard with metrics about the data and the pipeline’s operations 10/14
+e.Serve data through a flask API 10/21
+f.Extract data through the API 10/29
+
+Question 5:
+Who is going to be the repo owner?
+Answer: Felix
+
+Question 6:
+What is your process to accomplish tasks and review code?
+We are going to upload it to github and then the github owner will then check over to see if that is good. Since we have a small group everyone can really help in reviewing. 
+
+Question 7:
+How are you going to hold each team member accountable to stay on top of their tasks?
+We are going to ask updates every week to see where everyone is at. 
+
+Question 7:
+Set up the assignment repo per the assignment document and invite all members and ballingsclass.
+Clone the repo to your disk.
+Copy the file from your firstname_lastname repo, to your assignment folder.
+Using commands everyone should push this file with their answers to the assignment repo after creating a branch 
+called plan_lastname, and do a pull request, wich the repo owner will execute.
+We will check the repo to see if this is done correctly.
+Don't forget to also push to your firstname_lastname repo and do a pull request.
+
+
+
+
+
