@@ -28,7 +28,7 @@ f.Extract data through the API 10/29
 
 Question 5:
 Who is going to be the repo owner?
-Answer: Felix(Myself)
+Answer: Felix(myself)
 
 Question 6:
 What is your process to accomplish tasks and review code?
