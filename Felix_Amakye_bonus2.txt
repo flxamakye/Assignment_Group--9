@@ -17,7 +17,7 @@ Answer: Felix will be the repo owner and will help with Github transfers. Noah w
 
 Question 4:
 What are the expected completion dates of each task?
-Answer:
+Answer: 
 a.Get data from a URL daily and store it in a file 9/16
 b.Insert data into a Postgres database when it lands on disk 9/23
 c.Prepare data in a format for visualization/analysis 9/30
