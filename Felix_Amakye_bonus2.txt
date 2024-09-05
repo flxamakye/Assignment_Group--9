@@ -32,8 +32,7 @@ Answer: Felix(myself)
 
 Question 6:
 What is your process to accomplish tasks and review code?
-We are going to upload it to GitHub, and then the GitHub owner will check it over to see if it is good. Since we have a small group, everyone can really help in reviewing. 
-
+Answer: We are going to upload it to GitHub, and then the GitHub owner will check it over to see if it is good. Since we have a small group, everyone can really help in reviewing. 
 
 Question 7:
 How are you going to hold each team member accountable to stay on top of their tasks?
