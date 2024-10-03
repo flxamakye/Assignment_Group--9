@@ -1,0 +1,9 @@
+Meeting 10/02 BZAN 545
+
+-Pulled the data for today
+
+-Set up the code to run every day at 1PM
+
+-Decided to meet once we had over a week of the data and can then look ahead at which SQL sections we might need to know to clean the data 
+
+-Noah will obtain the data and store it into the file before our next meeting 
